@@ -11,8 +11,13 @@
 ![Diagrams UML](DiagramsDetails.png)
 
 =================================================
+
 We used here 4 different design patterns:
+
 -Singleton
+
 -Factory
+
 -Observer
+
 -Adapter
